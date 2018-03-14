@@ -1,4 +1,4 @@
-## Welcome to GitHub Pagesgjugjgjgj
+## Welcome to Mashels Website
 
 You can use the [editor on GitHub](https://github.com/SquishyWaffle/SquishyWaffle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 2
+## Header 3
+### Header 4
 
 - Bulleted
 - List
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+Mashel is Very Awesome All The Time
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
