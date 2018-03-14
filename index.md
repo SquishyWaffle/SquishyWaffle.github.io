@@ -1,6 +1,6 @@
 ## Welcome to Mashels Website
 
-You can use the [editor on GitHub](https://github.com/SquishyWaffle/SquishyWaffle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mashel is a wonderful weirdo who likes rainbows and lollipops.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-Mashel is Very Awesome All The Time
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
