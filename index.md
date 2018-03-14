@@ -2,21 +2,16 @@
 
 Mashel is a wonderful weirdo who likes rainbows and lollipops.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also love animals and nature.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Why?
+Person has her own personalities and quite a bit of them too.
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+No list for awesomeness
 
 1. Numbered
 2. List
