@@ -7,10 +7,6 @@ I also love animals and nature.
 Why?
 Person has her own personalities and quite a bit of them too.
 
-# Header 1
-## Header 2
-### Header 3
-
 No list for awesomeness
 
 3 is my favorite number
