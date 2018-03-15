@@ -1,7 +1,7 @@
 ## Professionally Badass: Custom Made Jewelry and Shirts
 
 Professionally Badass is a self-made company by sisters Rayna and Mashel McDonald.
-I also love animals and nature.
+
 
 <img src="download.jpeg" alt="hi" class="inline"/>
 
