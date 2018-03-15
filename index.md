@@ -3,7 +3,7 @@
 Mashel is a wonderful weirdo who likes rainbows and lollipops.
 
 I also love animals and nature.
-
+<img src="download.jpeg" alt="hi" class="inline"/>
 Why?
 Person has her own personalities and quite a bit of them too.
 
