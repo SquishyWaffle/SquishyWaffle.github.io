@@ -1,6 +1,6 @@
-## Welcome to Mashels Website
+## Professionally Badass: Custom Made Jewelry and Shirts
 
-Mashel is a wonderful weirdo who likes rainbows and lollipops.
+Professionally Badass is 
 
 I also love animals and nature.
 
