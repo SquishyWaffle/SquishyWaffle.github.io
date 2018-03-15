@@ -3,7 +3,7 @@
 Mashel is a wonderful weirdo who likes rainbows and lollipops.
 
 I also love animals and nature.
-<img src="download.jpeg" alt="hi" class="inline"/>
+
 Why?
 Person has her own personalities and quite a bit of them too.
 
@@ -17,3 +17,6 @@ https://squishywaffle.github.io/
 ```
 
 For more details about Mashel please mind your own business cause Mashel hates stalkers!
+
+
+<img src="download.jpeg" alt="hi" class="inline"/>
