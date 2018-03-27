@@ -9,6 +9,9 @@ Why?
 Person has her own personalities and quite a bit of them too.
 
 No list for awesomeness
+<img src="download(1).jpeg" alt="hi" class="inline"/>
+
+
 
 3 is my favorite number
 
