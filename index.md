@@ -15,7 +15,7 @@ Each item is crafted with imagination and love. They are especially made to be a
 <img src="tye-dye-a-shirt-10-3524112-regular.jpg" alt="hi" class="inline"/>
 
 
-
+<img src="" alt="hi" class="inline"/>
 
 
 
