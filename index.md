@@ -13,7 +13,7 @@ Each item is crafted with imagination and love. They are especially made to be a
 
 
 
-<img src="download (2).jpeg" alt="hi" class="inline"/>            
+<img src="download (2).jpeg" alt="hi" class="inline"/>                   <img src="" alt="hi" class="inline"/>    
 
 
 https://squishywaffle.github.io/
