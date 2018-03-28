@@ -6,18 +6,14 @@ Each item is crafted with imagination and love. They are especially made to be a
 
 
 
-<img src="download (1).jpeg" alt="hi" class="inline"/>                    <img src="download.jpeg" alt="hi" class="inline"/>
+<img src="download (1).jpeg" alt="hi" class="inline"/>                        <img src="download.jpeg" alt="hi" class="inline"/>
 
 
-<img src="download.jpeg" alt="hi" class="inline"/>
+[<img src="tye-dye-a-shirt-10-3524112-regular.jpg" alt="hi" class="inline"/>](Tye-Dye-Shirts.md)       
 
 
 
-[<img src="tye-dye-a-shirt-10-3524112-regular.jpg" alt="hi" class="inline"/>](Tye-Dye-Shirts.md)
-
-
-<img src="download (2).jpeg" alt="hi" class="inline"/>
-n
+<img src="download (2).jpeg" alt="hi" class="inline"/>            
 
 
 https://squishywaffle.github.io/
